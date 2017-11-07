@@ -1,0 +1,345 @@
+# Этот файл viminfo автоматически создан Vim 7.4.
+# Его можно (осторожно!) редактировать.
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Последний Шаблон поиска:
+~MSle0~/игнорировать
+
+# Последний Замена Шаблон поиска:
+~MSle0&уводю
+
+# Последняя строка для замены:
+$увожу
+
+# Командная строка, история (начиная от свежего к старому):
+:q
+:w урок_практикум_по_vi.txt
+:w урок_практикум_по_vi
+:q!
+:!q
+:w
+:n myscript
+:n m`
+:n mu
+:help-context
+:help
+:w myscript
+:w 123
+:exit
+:.!:exit
+:!qw
+:!
+:.!:!q
+:dv
+:fghf
+:bn
+:.!:Q
+:!open vimrc
+:!open 
+:!n
+:!n vimrc
+:!ls
+:ls
+:w vimrc
+:set ic
+:r TEST
+:'<,'>w TEST
+:!dir
+:1DIR
+:.!s
+:s/уводю/увожу/g
+:s/было/стало/g
+:s/было/сталоg
+:!exit
+:poweroff
+:!qa
+:qa
+:.!q
+:bd
+:bs
+:bc
+:bv
+:n работа2_в_vi
+:bp
+:n работа2_вvi
+
+# Строка поиска, история (начиная от свежего к старому):
+?/игнорировать
+?/игноривать
+? уводю
+? было
+?/ошшшибка
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Регистры:
+"0	CHAR	0
+	 Этот элемент первый.
+	
+""1	LINE	0
+	vall=6
+"2	LINE	0
+	if [ $vall -gt 5 ]
+"3	LINE	0
+	then
+"4	LINE	0
+	echo "The test value $vall is greater than 5"
+"5	LINE	0
+	else
+"6	LINE	0
+	fi
+"7	LINE	0
+	echo "The test value $valddl is not greater than 5"
+"8	LINE	0
+	dfsdvdfknbvdfkbdb
+"9	LINE	0
+	dfkvmkdfi/bin/bash: :exit: команда не найдена
+"-	CHAR	0
+	dfdfb
+
+# Глобальные отметки:
+'0  1  0  ~/урок_практикум_по_vi
+'1  3  3  ~/myscript
+'2  4  1  ~/myscript
+'3  4  16  ~/myscript
+'4  4  112  ~/myscript
+'5  4  114  ~/myscript
+'6  4  22  ~/myscript
+'7  4  70  ~/myscript
+'8  4  13  ~/myscript
+'9  1  19  ~/myscript
+
+# Список прыжков (сначала более свежие):
+-'  1  0  ~/урок_практикум_по_vi
+-'  3  3  ~/myscript
+-'  1  0  ~/myscript
+-'  1  0  ~/m`
+-'  4  1  ~/myscript
+-'  1  0  ~/mu
+-'  1  0  ~/123
+-'  1014  0  /tmp/tutorNYePMS
+-'  843  75  /tmp/tutorNYePMS
+-'  862  64  /tmp/tutorNYePMS
+-'  861  47  /tmp/tutorNYePMS
+-'  855  9  /tmp/tutorNYePMS
+-'  850  93  /tmp/tutorNYePMS
+-'  848  95  /tmp/tutorNYePMS
+-'  846  49  /tmp/tutorNYePMS
+-'  942  86  /tmp/tutorNYePMS
+-'  941  0  /tmp/tutorNYePMS
+-'  847  0  /tmp/tutorNYePMS
+-'  865  0  /tmp/tutorNYePMS
+-'  858  0  /tmp/tutorNYePMS
+-'  766  0  /tmp/tutorNYePMS
+-'  567  0  /tmp/tutorNYePMS
+-'  633  0  /tmp/tutorNYePMS
+-'  705  0  /tmp/tutorNYePMS
+-'  704  0  /tmp/tutorNYePMS
+-'  673  3  /tmp/tutorNYePMS
+-'  546  5  /tmp/tutorNYePMS
+-'  547  0  /tmp/tutorNYePMS
+-'  548  0  /tmp/tutorNYePMS
+-'  549  0  /tmp/tutorNYePMS
+-'  550  0  /tmp/tutorNYePMS
+-'  551  0  /tmp/tutorNYePMS
+-'  552  0  /tmp/tutorNYePMS
+-'  555  0  /tmp/tutorNYePMS
+-'  556  2  /tmp/tutorNYePMS
+-'  557  0  /tmp/tutorNYePMS
+-'  558  2  /tmp/tutorNYePMS
+-'  559  0  /tmp/tutorNYePMS
+-'  560  2  /tmp/tutorNYePMS
+-'  562  0  /tmp/tutorNYePMS
+-'  563  2  /tmp/tutorNYePMS
+-'  564  75  /tmp/tutorNYePMS
+-'  566  0  /tmp/tutorNYePMS
+-'  569  0  /tmp/tutorNYePMS
+-'  570  2  /tmp/tutorNYePMS
+-'  573  5  /tmp/tutorNYePMS
+-'  574  5  /tmp/tutorNYePMS
+-'  576  0  /tmp/tutorNYePMS
+-'  577  0  /tmp/tutorNYePMS
+-'  580  0  /tmp/tutorNYePMS
+-'  581  2  /tmp/tutorNYePMS
+-'  582  5  /tmp/tutorNYePMS
+-'  579  0  /tmp/tutorNYePMS
+-'  575  0  /tmp/tutorNYePMS
+-'  529  96  /tmp/tutorNYePMS
+-'  516  36  /tmp/tutorNYePMS
+-'  522  13  /tmp/tutorNYePMS
+-'  1  0  ~/test
+-'  2  0  ~/vimrc
+-'  1  0  ~/vimrc
+-'  1  0  ~/работа_в_vi
+-'  1  0  ~/знакомство_с_vi
+-'  1  0  ~/README
+-'  1  0  ~/работа2_вvi
+-'  1  0  ~/работа2_в_vi
+-'  7  87  ~/работа_в_vi
+-'  6  51  ~/работа_в_vi
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  1  0  ~/работа2_вvi
+-'  1  0  ~/работа2_в_vi
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  5  132  ~/(знакомтсво_с_vi)
+-'  1  0  ~/(знакомтсво_с_vi)
+-'  3  3  ~/myscript
+-'  1  0  ~/myscript
+
+# История местных отметок (от более свежих к старым):
+
+> ~/урок_практикум_по_vi
+	"	1	0
+
+> ~/m`
+	"	1	0
+
+> ~/myscript
+	"	3	3
+	^	3	4
+	.	3	3
+	+	1	11
+	+	4	32
+	+	4	64
+	+	4	64
+	+	4	7
+	+	4	20
+	+	4	12
+	+	4	12
+	+	4	48
+	+	4	114
+	+	4	17
+	+	4	0
+	+	4	112
+	+	4	16
+	+	4	45
+	+	4	2
+	+	4	0
+	+	4	0
+	+	3	3
+
+> ~/mu
+	"	1	0
+
+> /usr/share/vim/vim74/doc/help.txt
+	"	1	0
+
+> /usr/share/vim/vim74/doc/syntax.txt
+	"	4167	6
+
+> /tmp/tutorNYePMS
+	"	1014	0
+	^	862	63
+	.	1014	0
+	+	81	0
+	+	94	0
+	+	115	72
+	+	137	87
+	+	139	71
+	+	214	0
+	+	231	0
+	+	297	0
+	+	316	0
+	+	341	98
+	+	341	0
+	+	369	0
+	+	391	0
+	+	391	0
+	+	391	0
+	+	395	0
+	+	369	0
+	+	389	0
+	+	390	0
+	+	391	0
+	+	392	0
+	+	393	0
+	+	409	63
+	+	434	101
+	+	460	93
+	+	1014	0
+	+	567	0
+	+	634	0
+	+	722	0
+	+	705	0
+	+	706	0
+	+	709	0
+	+	757	28
+	+	756	0
+	+	762	4
+	+	785	110
+	+	808	48
+	+	832	46
+	+	833	0
+	+	862	63
+	+	1014	0
+
+> ~/test
+	"	1	0
+
+> ~/vimrc
+	"	121	0
+	^	121	1
+	.	121	0
+	+	2	22
+	+	2	10
+	+	3	0
+	+	2	9
+	+	115	4
+	+	121	0
+
+> ~/работа_в_vi
+	"	1	0
+	^	7	89
+	.	7	87
+	+	1	99
+	+	2	99
+	+	3	99
+	+	4	99
+	+	5	99
+	+	6	99
+	+	6	192
+	+	6	99
+	+	7	87
+
+> ~/знакомство_с_vi
+	"	1	0
+
+> ~/README
+	"	1	0
+
+> ~/работа2_вvi
+	"	1	0
+
+> ~/работа2_в_vi
+	"	1	0
